@@ -253,7 +253,6 @@ Only the image **file name** is stored in the database. The image itself lives i
 
 Fork the repo, create a branch, make your change and open a pull request. Please keep to the plain PHP + forms approach (no frameworks or API calls) so the project stays simple to learn from.
 
-
 ---
 
 <div align="center">
