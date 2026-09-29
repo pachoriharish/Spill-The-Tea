@@ -9,7 +9,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-markup-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-styling-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/license-MIT-B9FBC0)
 
 [Live demo](#-live-demo) · [Features](#-features) · [Quick start](#-quick-start) · [Deploy](#-deploy-on-infinityfree) · [Structure](#-project-structure)
 
@@ -254,9 +253,6 @@ Only the image **file name** is stored in the database. The image itself lives i
 
 Fork the repo, create a branch, make your change and open a pull request. Please keep to the plain PHP + forms approach (no frameworks or API calls) so the project stays simple to learn from.
 
-## 📄 License
-
-Released under the [MIT License](LICENSE). Add a `LICENSE` file to the repo root to match.
 
 ---
 
