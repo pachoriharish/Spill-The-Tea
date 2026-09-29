@@ -262,6 +262,6 @@ Released under the [MIT License](LICENSE). Add a `LICENSE` file to the repo root
 
 <div align="center">
 
-Made with 🍵 and too many memes by **YOUR NAME**
+Made with 🍵 and too many memes by **Harish Pachori**
 
 </div>
